@@ -1,0 +1,7 @@
+﻿  Spammer.cpp
+C:\Users\Kuca\source\repos\Spammer\Spammer\Spammer.cpp(86,60): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Spammer.vcxproj -> C:\Users\Kuca\source\repos\Spammer\x64\Release\Spammer.exe
