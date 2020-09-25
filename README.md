@@ -6,4 +6,4 @@ Important notes for project
 * If you are working on linux you can look at the source file of main .cpp file and change windows.h to unistd.h for time sleeping
 * Before you are starting with the spam, select wanted textbox
 ## My Account
-Check my other repositories: [Contribution guidelines for this project](https://github.com/crypto-plus-plus?tab=repositories)
+Check my other repositories: [Repositories](https://github.com/crypto-plus-plus?tab=repositories)
