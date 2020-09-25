@@ -1,6 +1,9 @@
 # C++ Spammer
 Spammer written in Visual C++. Executable file available in Debug and Release version. Open .sln file for whole project solution.
-## NOTE
+# NOTE
 Important notes for project
-* Project is builded for Windows, does support editing.
-* If you are working on linux you can look at the source file of main .cpp file and change windows.h to unistd.h for time sleeping.
+* Project is builded for Windows, does support editing
+* If you are working on linux you can look at the source file of main .cpp file and change windows.h to unistd.h for time sleeping
+* Before you are starting with the spam, select wanted textbox
+## My Account
+Check my other repositories: [Contribution guidelines for this project](https://github.com/crypto-plus-plus?tab=repositories)
